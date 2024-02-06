@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img {
+    width: 100vw;
+}
+::-webkit-scrollbar{
+    width: 0px;
+}
